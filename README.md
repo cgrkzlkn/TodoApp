@@ -1,3 +1,3 @@
 # TodoApp
 
-Todo App using Python Flask, SqlAlchemy ORM and Bootstrap
+Todo App with Python Flask, SqlAlchemy ORM and Bootstrap
