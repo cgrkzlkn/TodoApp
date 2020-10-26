@@ -1,2 +1,3 @@
 # TodoApp
-Todo App
+
+Todo App using Python Flask, SqlAlchemy, ORM and Bootstrap
